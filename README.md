@@ -35,9 +35,10 @@ Edit
 │   ├── Screenshot_1_Patients_Summary.png
 │   └── Screenshot_2_Hospital_Summary.png
 
+![Screenshot 2025-05-17 131558](https://github.com/user-attachments/assets/8fdabdb9-16d7-4473-b51d-da6a8929a54f)
 
-Load the Excel dataset when prompted.
+![Screenshot 2025-05-17 131544](https://github.com/user-attachments/assets/14b73463-4669-4e80-b7c4-c468a6a480d8)
 
-Interact with the visuals, filters, and slicers.
 
-(Optional) Connect GPT/OpenAI API to extend with AI-generated insights or chat interface.
+
+
